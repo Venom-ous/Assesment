@@ -15,7 +15,7 @@
 			<arguments>
 			</arguments>
 		</buildCommand>
-// comment
+
 	</buildSpec>
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
